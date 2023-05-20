@@ -6,8 +6,8 @@
 You can also find my digital resumes at these sites:
 
 * **Hexlet CV**:
-+ **English variant:** https://cv.hexlet.io/resumes/2650
-+ **Russian variant:** https://cv.hexlet.io/ru/resumes/2099
+    + **English variant:** https://cv.hexlet.io/resumes/2650
+    + **Russian variant:** https://cv.hexlet.io/ru/resumes/2099
 * **Habr:** (under constraction)
 * **HH:** (under constraction)
 * **LinkedIn:** (under constraction)
